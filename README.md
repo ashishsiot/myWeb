@@ -4,15 +4,22 @@ Hello all, I have been wanting to work with HTML and CSS here and there for the 
 My end goal is to actually try and make this to show myself and others I know a great skill and see where this can take me. I would love to get into a job where I am programing, but realize that I will probably need to learn HTML, CSS, and JavaScript before I am even looked at by a company so I am hoping to learn all of this through this project in some ways.
 Lets see where this take me and I hope that you will join me in this crazy adventure I'm about to start. Have a great day and never stop learning things. :)
 
+
+# ▶ Live Website ▶
+
+
+[![CarDEalerShip](https://raw.githubusercontent.com/ashishsiot/myWeb/master/homepage%20png%20.png)](https://ashishsiot.github.io/myWeb/)
+
+[Click Here Live website](https://ashishsiot.github.io/myWeb/)
+
+
+
 # 📝 Lanuage Used 📝
 
 * HTML
 * JAVASCRIPT
 * CSS
 
-# ▶ Live Website ▶
-
-[Click Here Live website](https://ashishsiot.github.io/myWeb/)
 
 # 🗃 Check Out More Portfolio Website 🗃
 [Click Here ](https://github.com/emmabostian/developer-portfolios)
